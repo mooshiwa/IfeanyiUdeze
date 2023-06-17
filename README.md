@@ -9,7 +9,7 @@ I'm a Senior Data and Business Analyst with 4 years of experience in a Big 4 (Ma
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="R" width="30px" src="https://www.r-project.org/logo/Rlogo.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
 <img align="left" alt="Tableau" width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="30px" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" style="padding-right:10px;" />
