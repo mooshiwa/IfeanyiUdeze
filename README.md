@@ -19,7 +19,7 @@ I'm a Senior Data and Business Analyst with 4 years of experience in a Big 4 (Ma
 
 #
 
-<iframe src=<iframe title="PwC Call Center" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2Y4ZjhlZDctMzlhNi00OTMzLTljMTItYzljMDIxNWQ0YTI3IiwidCI6ImU4NjU1MmU4LTIwZmQtNDY5Yi05NGMyLTY4OTM0MGEzZjkzMSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>></iframe>
+<iframe src=https://mooshiwa.github.io/mooshiwa/embed.html></iframe>
 
 
 #
