@@ -17,8 +17,8 @@ I'm a Senior Data and Business Analyst with 4 years of experience in a Big 4 (Ma
 
 <br />
 
-#
 
+#
 <details> 
     <summary><h3>🧳 Ifeanyi's Career Journey</h3></summary> 
-        My analyst journey started as 12 year old exploring a new computer which my father bought. Since there were no games, I played with MS Excel by plotting useless charts and making random mathematical calculations. I went on to study Mechanical Engineering in the university where I understood the concept of data science and statistics. I had a desire to get into management consulting early on in mt career as, to me, that meant exposure to as many industries as possible while getting a platform to grow and learn from experts. At PwC, I worked on various data analysis and financial analysis projects using any tool I could lay my hands on. Eventually, I focused on delivering sustainable analysis to businesses and have now started to post all projects I work on outside of work here.
+        My analyst journey started as 12 year old exploring a new computer which my father bought. Since there were no games, I played with MS Excel by plotting useless charts and making random mathematical calculations. I went on to study Mechanical Engineering in the university where I understood the concept of data science and statistics. I had a desire to get into management consulting early on in my career as, to me, that meant exposure to as many industries as possible while getting a platform to grow and learn from experts. At PwC, I worked on various data analysis and financial analysis projects using any tool I could lay my hands on. Eventually, I focused on delivering sustainable analysis to businesses and have now started to post all projects I work on outside of work here.
