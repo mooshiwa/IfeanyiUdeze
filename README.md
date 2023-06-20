@@ -17,10 +17,6 @@ I'm a Senior Data and Business Analyst with 4 years of experience in a Big 4 (Ma
 
 <br />
 
-#
-
-<iframe src=https://mooshiwa.github.io/mooshiwa/embed.html></iframe>
-
 
 #
 <details> 
